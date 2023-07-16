@@ -1,0 +1,31 @@
+{
+  "name": "discord-bot-stalker",
+  "version": "1.0.0",
+  "description": "A Discord bot that emmulates an annoyingly obsessed stalker that can be set to stalk someone using their client id. Every time they comment on anything, the stalker will reply with creepily loving adoration and affection. Uses GPT3.5-Turbo-0613.",
+  "main": "stalker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lane-G-Smith/Discord-Bot-Stalker.git"
+  },
+  "keywords": [
+    "discord",
+    "chatbot",
+    "practical-joke",
+    "javascript",
+    "discord.js"
+  ],
+  "author": "Lane G Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lane-G-Smith/Discord-Bot-Stalker/issues"
+  },
+  "homepage": "https://github.com/Lane-G-Smith/Discord-Bot-Stalker#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "openai": "^3.3.0"
+  }
+}
