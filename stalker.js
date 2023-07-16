@@ -33,7 +33,7 @@ client.on("messageCreate", async function (message) {
     try {
 
 // ignore input from the bot itself
-        if (message.author.id === "SET USER ID HERE") {
+        if (message.author.id === "USER ID") {
 
 // AI personality & response format to user input
         const completion = await openai.createChatCompletion({
