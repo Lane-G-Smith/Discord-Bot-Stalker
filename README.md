@@ -9,7 +9,7 @@
         <br /><strong>Discord.js</strong>
     </td>
     <td align="center" height="108">
-      <p align="center">A Discord bot that emulates an annoyingly obsessed stalker that can be set to stalk someone using their client id. Every time the victim comments on anything, the stalker will reply with over-the-top inappropriate adoration and affection. Uses GPT3.5-Turbo-0613.
+      <p align="center">A Discord bot that emulates an annoyingly obsessed stalker that can be set to stalk someone using their Discord user id. Every time the victim comments on anything, the stalker will reply with over-the-top inappropriate adoration and affection. Uses GPT3.5-Turbo-0613.
       </p>
      </td>
    </tr>
