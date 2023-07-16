@@ -58,7 +58,7 @@ OPENAI_API_KEY=your_unique_OpenAI_API_key_here
 ```
 ### Right-click the user in Discord, copy the User ID and paste it into line 36 of stalker.js where it says "USER ID"
 ```sh
-OPENAI_API_KEY=your_unique_OpenAI_API_key_here
+"USER ID" = victims Discord user ID 
 ```
 ### To host the bot locally, open the project in the terminal and run node
 ```sh
